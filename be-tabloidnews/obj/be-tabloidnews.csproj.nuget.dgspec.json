@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/khangnguyen/Desktop/be-tabloidnews/be-tabloidnews/be-tabloidnews.csproj": {}
+  },
+  "projects": {
+    "/Users/khangnguyen/Desktop/be-tabloidnews/be-tabloidnews/be-tabloidnews.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/khangnguyen/Desktop/be-tabloidnews/be-tabloidnews/be-tabloidnews.csproj",
+        "projectName": "be-tabloidnews",
+        "projectPath": "/Users/khangnguyen/Desktop/be-tabloidnews/be-tabloidnews/be-tabloidnews.csproj",
+        "packagesPath": "/Users/khangnguyen/.nuget/packages/",
+        "outputPath": "/Users/khangnguyen/Desktop/be-tabloidnews/be-tabloidnews/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/khangnguyen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BCrypt.Net": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.24.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.16.1, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.23.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.16.1, )"
+            },
+            "System.Security.Cryptography.Pkcs": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.416/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
