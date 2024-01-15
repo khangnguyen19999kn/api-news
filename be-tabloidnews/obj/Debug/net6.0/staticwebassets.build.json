@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "naS/7MDdFYdGlNp+NxWP7xlAUfFqJdH6SvPHJU20H1c=",
+  "Source": "be-tabloidnews",
+  "BasePath": "_content/be-tabloidnews",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
